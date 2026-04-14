@@ -1,1 +1,2 @@
 Ressource = "NX-Burgershot" | Version = "1.0.1"
+Ressource = "NX-Airport" | Version = "1.0.0"
