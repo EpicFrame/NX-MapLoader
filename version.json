@@ -1,4 +1,12 @@
 {
   "NX-LosSantosCustoms": "1.0.0",
-  "NX-MSPerfomance": "1.0.0"
+  "NX-MSPerfomance": "1.0.0",
+
+  "NX-Casino-Mapping": "1.0.0",
+
+  "NX-BoatDealer": "1.0.0",
+  "NX-MotorcycleDealer": "1.0.0",
+  "NX-Pdm-City": "1.0.0",
+  "NX-Pdm-Legion": "1.0.0",
+  "NX-SandyDealership": "1.0.0"
 }
