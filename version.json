@@ -8,5 +8,18 @@
   "NX-MotorcycleDealer": "1.0.0",
   "NX-Pdm-City": "1.0.0",
   "NX-Pdm-Legion": "1.0.0",
-  "NX-SandyDealership": "1.0.0"
+  "NX-SandyDealership": "1.0.0",
+
+  "NX-Ammunation-Big": "1.0.0",
+  "NX-Ammunation-Small": "1.0.0",
+  "NX-BarberShop": "1.0.0",
+  "NX-BincoStores": "1.0.0",
+  "NX-Digitalden": "1.0.0",
+  "NX-Fleeca": "1.0.0",
+  "NX-GasOline": "1.0.0",
+  "NX-PlasticSurgery": "1.0.0",
+  "NX-Ponsonbys": "1.0.0",
+  "NX-SmokingShop": "1.0.0",
+  "NX-Suburban": "1.0.0",
+  "NX-Supermarkets": "1.0.0"
 }
